@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="txtfirstname_hint">FirstName</string>
+    <string name="txtlastname_hint">LastName</string>
+    <string name="txtphonenumber_hint">PhoneNumber</string>
+    <string name="txtemail_hint">Email</string>
+    <string name="txtpassword_hint">Password</string>
+    <string name="txtregister_hint">Register</string>
+    <string name="txtuname_hint">Username</string>
+    <string name="txtlogin_hint">Login</string>
+</resources>
